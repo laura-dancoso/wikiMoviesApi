@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "description": "Cinemark Palermo",
+        "url": "https://www.cinemarkhoyts.com.ar"
+    },
+    {
+        "id": 2,
+        "description": "Cinemark Belgrano",
+        "url": "https://www.cinemarkhoyts.com.ar"
+    },
+    {
+        "id": 3,
+        "description": "Cinepolis Recoleta",
+        "url": "https://www.cinepolis.com.ar/"
+    },
+    {
+        "id": 4,
+        "description": "Cinemark Caballito",
+        "url": "https://www.cinemarkhoyts.com.ar"
+    },
+    {
+        "id": 5,
+        "description": "Hoyts Dot",
+        "url": "https://www.cinemarkhoyts.com.ar"
+    },
+    {
+        "id": 6,
+        "description": "Hoyts Abasto",
+        "url": "https://www.cinemarkhoyts.com.ar"
+    },
+    {
+        "id": 7,
+        "description": "Hoyts Unicenter",
+        "url": "https://www.cinemarkhoyts.com.ar"
+    },
+    {
+        "id": 8,
+        "description": "Hoyts Quilmes",
+        "url": "https://www.cinemarkhoyts.com.ar"
+    },
+    {
+        "id": 9,
+        "description": "Cinemark Avellaneda",
+        "url": "https://www.cinemarkhoyts.com.ar"
+    }
+]

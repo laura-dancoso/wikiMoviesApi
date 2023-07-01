@@ -1,0 +1,1385 @@
+[
+    {
+        "id": 1,
+        "title": "ELEMENTOS",
+        "genres": [
+            {
+                "id": 1,
+                "description": "Animación"
+            }
+        ],
+        "description": "ELEMENTOS de Disney y Pixar, es un nuevo largometraje original ambientado en Elemental City, donde conviven los habitantes del fuego, el agua, la tierra y el aire. La historia nos presenta a Ember, una joven dura, ingeniosa y feroz, cuya amistad con un chico divertido y que se deja llevar por la corriente, llamado Wade, desafía sus creencias sobre el mundo en el que viven. Dirigida por Peter Sohn, producida por Denise Ream, y con las voces de Leah Lewis y Mamoudou Athie, en su versión original en inglés, como Ember y Wade, respectivamente, ELEMENTOS se estrena sólo en cines el 15 de junio de 2023.",
+        "duration": 108,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/6aa4601e49a56d928205c271b55fd463.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 1,
+                    "description": "Cinemark Palermo",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "FLASH",
+        "genres": [
+            {
+                "id": 2,
+                "description": "Acción"
+            }
+        ],
+        "description": "Los mundos chocan en 'Flash' cuando Barry usa sus superpoderes para viajar en el tiempo y cambiar los eventos del pasado. Pero cuando su intento de salvar a su familia altera el futuro sin darse cuenta, Barry queda atrapado en una realidad en la que el general Zod ha regresado, amenazando con la aniquilación, y no hay superhéroes a los que recurrir. Es decir, a menos que Barry pueda sacar a un Batman muy diferente de su retiro y rescatar a un kryptoniano encarcelado... aunque no sea el que está buscando. En última instancia, para salvar el mundo en el que se encuentra y regresar al futuro que conoce, la única esperanza de Barry es correr por su vida. Pero ¿será suficiente hacer el último sacrificio para reiniciar el universo?",
+        "duration": 144,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/227b519e83a8b99329302ad2d37d0bbb.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 4,
+                    "description": "Cinemark Caballito",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "BARBIE",
+        "genres": [
+            {
+                "id": 3,
+                "description": "Comedia"
+            }
+        ],
+        "description": "Exéntrica e individualista, Barbie, una muñeca que vive en 'Barbieland' es expulsada al mundo real por no ser lo suficientemente perfecta. Cuando su hogar está seriamente en peligro, Barbie decide regresar sabiendo que lo que la hace diferente también la hace más fuerte.",
+        "duration": 114,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/6546c70272a606d297ad53bfb9162189.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 5,
+                    "description": "Hoyts Dot",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "LA SIRENITA",
+        "genres": [
+            {
+                "id": 4,
+                "description": "Aventuras"
+            }
+        ],
+        "description": "Ariel, la más joven de las hijas del rey Tritón y la más rebelde, sueña con conocer el mundo más allá del mar y, mientras visita la superficie, se enamora del distinguido príncipe Eric. Aunque las sirenas tienen prohibido relacionarse con los humanos, Ariel debe seguir su corazón. Ella hace un trato con la malvada bruja del mar, Úrsula, que le da la oportunidad de experimentar la vida sobre la tierra, pero que, en última instancia, pone su vida y la corona de su padre en peligro.",
+        "duration": 135,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/fcb985a11f362bc8c05a89788fb5ac5c.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 5,
+                    "description": "Hoyts Dot",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "JUEGO DE BRUJAS",
+        "genres": [
+            {
+                "id": 5,
+                "description": "Terror"
+            },{
+                "id": 4,
+                "description": "Aventuras"
+            }
+        ],
+        "description": "Una joven deberá en una noche conocer los secretos de la brujería para enfrentarse al demonio y salvar a su hermana. Sólo tendrá la ayuda de 3 brujos que la llevarán por el tortuoso camino del aprendizaje a ser una verdadera bruja.",
+        "duration": 85,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/7e04235b1c69650d35a4544f79b312d9.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 6,
+                    "description": "Hoyts Abasto",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "INDIANA JONES 5",
+        "genres": [
+            {
+                "id": 4,
+                "description": "Aventuras"
+            }
+        ],
+        "description": "INDIANA JONES Y EL LLAMADO DEL DESTINO. La quinta película de la saga llega el 29 de junio de 2023, solo en cines.",
+        "duration": 154,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/b4a94bbbf0afe247d3ff047d75707583.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 6,
+                    "description": "Hoyts Abasto",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "RAPIDOS Y FURIOSOS 10",
+        "genres": [
+            {
+                "id": 2,
+                "description": "Acción"
+            }
+        ],
+        "description": "Comienza el final del camino. Rápidos y furiosos X, la décima película de la saga Rápidos y furiosos, es el capítulo final de una de las franquicias más populares y queridas del cine, ahora en su tercera década y continuando con el mismo elenco y personajes que cuando comenzó. A través de varias misiones y contra lo imposible, Dom Toretto (Vin Diesel) y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, A los que Dom ama. En Rápidos y furiosos: 5in control, de 2011, Dom y su equipo derrotaron al infame líder de la droga brasileña Hernan Reyes y destruyeron su imperio en un puente de Rio de Janeiro. Lo que no sabían era que el hijo de Reyes, Dante (Jason Momoa, de Aquaman) presenció todo y ha pasado 12 años creando un plan para que Dom pague el precio más alto. El plan de Dante llevará a la familia de Dom de Los Ángeles a las catacumbas de Roma, de Brasil a Londres, y de Portugal a la Antártida. Se forjaran nuevos aliados y resurgirán viejos enemigos. Pero todo cambia cuando Dom descubre que su hijo de 8 años (Leo Abelo Perry, Black-ish) es el objetivo final de la venganza de Dante.",
+        "duration": 141,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/ec5c069fb3f7c7ba1074e39f95fc5251.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 7,
+                    "description": "Hoyts Unicenter",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "TRANSFORMERS",
+        "genres": [
+            {
+                "id": 2,
+                "description": "Acción"
+            }
+        ],
+        "description": "TRANSFORMERS EL DESPERTAR DE LAS BESTIAS. Por millones de años nuestro mundo se ha transformado, pero algo más ha despertado. Transformers: El despertar de las bestias, exclusivamente en cines este 2023.",
+        "duration": 127,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/c472b909092fa600d05588965cb9e2a3.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 7,
+                    "description": "Hoyts Unicenter",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "SPIDERMAN A TRAVES DEL SPIDERVERSO",
+        "genres": [
+            {
+                "id": 1,
+                "description": "Animación"
+            }
+        ],
+        "description": "Después de reunirse con Gwen Stacy, Spider-Man, el amigable vecino de Brooklyn, es transportado a través del Multiverso, donde se encuentra con un equipo de Spider-Gente encargado de proteger su existencia. Pero cuando los héroes difieren acerca de cómo manejar una nueva amenaza, Miles se enfrenta a las otros Spiders y debe redefinir lo que significa ser un héroe para poder salvar a las personas que más ama.",
+        "duration": 140,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/483c1800ed15083a602307931c1d86b7.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 8,
+                    "description": "Hoyts Quilmes",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "BLONDI",
+        "genres": [
+            {
+                "id": 3,
+                "description": "Comedia"
+            }
+        ],
+        "description": "Es una película que, en tono de comedia, abre imperceptiblemente temas enormes y trascendentes. Mientras relata la historia particular y cotidiana del vínculo de una madre con su hijo, nos va hablando de las distintas formas de maternidad y crianza, la juventud y la madurez, las mujeres y el feminismo, las libertades individuales y las distintas formas de amor filial. BLONDI es una película sobre el amor y la libertad.",
+        "duration": 88,
+        "imageUrl": "https://static.cinemarkhoyts.com.ar/Images/Posters/ecfdc9b52fb6c52cfbb19e91f913dd70.jpg?v=00002151",
+        "showtimes": [
+            {
+                "theater": {
+                    "id": 9,
+                    "description": "Cinemark Avellaneda",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 2,
+                    "description": "Cinemark Belgrano",
+                    "url": "https://www.cinemarkhoyts.com.ar"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theater": {
+                    "id": 3,
+                    "description": "Cinepolis Recoleta",
+                    "url": "https://www.cinepolis.com.ar/"
+                },
+                "dates": [
+                    {
+                        "date": "2023-08-20T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-21T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-22T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "date": "2023-08-23T03:00:00.000Z",
+                        "times": [
+                            "12:00",
+                            "15:30",
+                            "20:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

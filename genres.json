@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "description": "Animación"
+    },
+    {
+        "id": 2,
+        "description": "Acción"
+    },
+    {
+        "id": 3,
+        "description": "Comedia"
+    },
+    {
+        "id": 4,
+        "description": "Aventuras"
+    },
+    {
+        "id": 5,
+        "description": "Terror"
+    }
+]
