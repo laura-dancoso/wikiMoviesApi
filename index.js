@@ -44,7 +44,7 @@ app.get('/api/movies', (req, res) => {
         });
     else
         resp = movies;
-    res.send(resp.map(m=>({id: m.id, title: m.title, imageUrl: m.imageUrl})));
+    res.send(resp.map(m=>({id: m.id, title: m.title, imageUrl: m.imageUrl, genres: m.genres})));
 });
 
 app.get('/api/movies/:id', (req, res) => {
