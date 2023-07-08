@@ -1,5 +1,5 @@
 # Api para el proyecto final WikiMovies
-
+*** este proyecto fue realizado para fines acádemicos/prácticos para ser consumido por la app [wikiMovies](https://github.com/laura-dancoso/wikiMovies) y aún no está trabajando con datos en tiempo real ***
 ## Get Genres
 Retorna la lista de todos los géneros disponibles.
 ### Request
